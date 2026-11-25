@@ -1,28 +1,67 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/masthead-dark.svg">
-  <img alt="Alexandr Korsak, Barcelona, building since 2009. Working hard, sleeping well." src="./assets/masthead-light.svg" width="960">
-</picture>
+<pre>
+================================================================================
+                             oivoodoo magazine  #1                              
 
-Building in Barcelona since 2009. The libraries that are still installed, and the work in progress, live on this account.
+      #####   #######  #     #   #####    #####   ######    #####    #####      
+     #     #     #     #     #  #     #  #     #  #     #  #     #  #     #     
+     #     #     #     #     #  #     #  #     #  #     #  #     #  #     #     
+     #     #     #      #   #   #     #  #     #  #     #  #     #  #     #     
+     #     #     #       # #    #     #  #     #  #     #  #     #  #     #     
+      #####   #######     #      #####    #####   ######    #####    #####      
 
-## Libraries
+                         "working hard, sleeping well."                         
+                             barcelona, since 2009                              
+================================================================================
 
-Maintained, and still installed in other people's apps.
+contents______
 
-| Library | What it does |
-| --- | --- |
-| [devise_masquerade](https://github.com/oivoodoo/devise_masquerade) | Login-as for Devise, so an admin can enter an account without the password. |
-| [phoenix_lens](https://github.com/oivoodoo/phoenix_lens) | SQL notebook mounted in a Phoenix app. Saved questions, dashboards, PII masked on every result. |
-| [pghero-elixir](https://github.com/oivoodoo/pghero-elixir) | Postgres performance for Phoenix, also runnable as Docker. An Elixir port of PgHero. |
-| [phoenix_healthy](https://github.com/oivoodoo/phoenix_healthy) | Liveness and readiness probes for Phoenix and Plug. |
-| [redis_poolex](https://github.com/oivoodoo/redis_poolex) | Redis connection pool built on poolboy. |
+  01  editorial                                                  alexandr korsak
+  02  libraries                                                  still installed
+  03  now                                                     elixir, go, python
+  04  elsewhere                                          blog, youtube, x, games
 
-Earlier, and left in place: [exfacebook](https://github.com/oivoodoo/exfacebook), [angular-image-spinner](https://github.com/oivoodoo/angular-image-spinner), [backbone-queues](https://github.com/oivoodoo/backbone-queues).
+--------------------------------------------------------------------------------
+  01  editorial______                                         by alexandr korsak
+--------------------------------------------------------------------------------
 
-## Now
+  Building in Barcelona since 2009. The libraries that are still installed,
+  and the work in progress, live on this account.
 
-Elixir and Go when a hot path has to hold. Python for retrieval, eval, and fine-tunes. Games at [Balcony Games](https://balconygames.com).
+--------------------------------------------------------------------------------
+  02  libraries______
+--------------------------------------------------------------------------------
 
-## Elsewhere
+  maintained, and still installed in other people's apps.
 
-[Blog](https://dev.to/oivoodoo) · [YouTube](https://www.youtube.com/@oivoodoo) · [X](https://x.com/oivoodoo) · [Balcony Games](https://balconygames.com)
+  <a href="https://github.com/oivoodoo/devise_masquerade">devise_masquerade</a>       login-as for Devise, without asking for the password.
+  <a href="https://github.com/oivoodoo/phoenix_lens">phoenix_lens</a>            SQL notebook for Phoenix. Dashboards, PII masked.
+  <a href="https://github.com/oivoodoo/pghero-elixir">pghero-elixir</a>           Postgres performance for Phoenix. Also runs as Docker.
+  <a href="https://github.com/oivoodoo/phoenix_healthy">phoenix_healthy</a>         liveness and readiness probes for Phoenix and Plug.
+  <a href="https://github.com/oivoodoo/redis_poolex">redis_poolex</a>            Redis connection pool built on poolboy.
+
+  earlier, left in place.
+
+  <a href="https://github.com/oivoodoo/exfacebook">exfacebook</a>              Facebook API for Elixir.
+  <a href="https://github.com/oivoodoo/angular-image-spinner">angular-image-spinner</a>   image spinner for Angular.
+  <a href="https://github.com/oivoodoo/backbone-queues">backbone-queues</a>         local queues for Backbone.
+
+--------------------------------------------------------------------------------
+  03  now______
+--------------------------------------------------------------------------------
+
+  Elixir and Go when a hot path has to hold. Python for retrieval, eval, and
+  fine-tunes. Games at <a href="https://balconygames.com">balcony games</a>.
+
+--------------------------------------------------------------------------------
+  04  elsewhere______
+--------------------------------------------------------------------------------
+
+  blog                                                   <a href="https://dev.to/oivoodoo">https://dev.to/oivoodoo</a>
+  youtube                                      <a href="https://www.youtube.com/@oivoodoo">https://www.youtube.com/@oivoodoo</a>
+  x                                                       <a href="https://x.com/oivoodoo">https://x.com/oivoodoo</a>
+  balcony games                                         <a href="https://balconygames.com">https://balconygames.com</a>
+
+================================================================================
+  end of file.                                                       oivoodoo #1
+================================================================================
+</pre>
