@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 232" role="img" aria-labelledby="title desc">
+  <title id="title">Alexandr Korsak</title>
+  <desc id="desc">Barcelona. Building since 2009. Working hard, sleeping well.</desc>
+  <rect width="960" height="232" fill="#141210"/>
+  <line x1="32" y1="18" x2="928" y2="18" stroke="#3a342c" stroke-width="1.5"/>
+  <line x1="32" y1="214" x2="928" y2="214" stroke="#3a342c" stroke-width="1.5"/>
+  <line x1="32" y1="18" x2="32" y2="214" stroke="#e3a58a" stroke-width="3"/>
+  <text x="52" y="52" fill="#a0988c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.6">BARCELONA</text>
+  <text x="52" y="114" fill="#f3efe6" font-family="Georgia, Iowan Old Style, Palatino, serif" font-size="52">Alexandr Korsak</text>
+  <text x="928" y="114" fill="#e3a58a" font-family="Georgia, Iowan Old Style, Palatino, serif" font-size="52" text-anchor="end">2009</text>
+  <text x="52" y="158" fill="#f3efe6" font-family="Georgia, Iowan Old Style, Palatino, serif" font-size="20" font-style="italic">Working hard, sleeping well.</text>
+  <text x="52" y="198" fill="#a0988c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="0.6">Rails  ·  Phoenix  ·  Go  ·  Python</text>
+</svg>
