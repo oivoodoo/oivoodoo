@@ -21,8 +21,8 @@ Earlier, and left in place: [exfacebook](https://github.com/oivoodoo/exfacebook)
 
 ## Now
 
-Elixir and Go when a hot path has to hold. Python for retrieval, eval, and fine-tunes.
+Elixir and Go when a hot path has to hold. Python for retrieval, eval, and fine-tunes. Games at [Balcony Games](https://balconygames.com).
 
 ## Elsewhere
 
-[Blog](https://dev.to/oivoodoo) · [YouTube](https://www.youtube.com/@oivoodoo) · [X](https://x.com/oivoodoo)
+[Blog](https://dev.to/oivoodoo) · [YouTube](https://www.youtube.com/@oivoodoo) · [X](https://x.com/oivoodoo) · [Balcony Games](https://balconygames.com)
